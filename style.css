@@ -151,7 +151,7 @@ header {
 .hero {
     padding-top: 189px;
     padding-bottom: 210px;
-    background-image: url("../img/hero-bg.jpg");
+    background-image: url("./img/hero-bg.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -255,7 +255,7 @@ header {
 .footer {
     padding-top: 300px;
     color: #ffffff;
-    background-image: url('../img/Bg.jpg');
+    background-image: url('./img/Bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -393,23 +393,23 @@ header {
 }
 
 .social-link-fb {
-    background-image: url('../img/facebook.svg');
+    background-image: url('./img/facebook.svg');
     background-size: 18px auto;
 }
 
 .social-link-tw {
-    background-image: url('../img/twitter.svg');
+    background-image: url('./img/twitter.svg');
     background-size: 18px auto;
 }
 
 
 .social-link-g {
-    background-image: url('../img/google-plus.svg');
+    background-image: url('./img/google-plus.svg');
     background-size: 18px auto;
 }
 
 .social-link-in {
-    background-image: url('../img/linkedin.svg');
+    background-image: url('./img/linkedin.svg');
     background-size: 18px auto;
 }
 
